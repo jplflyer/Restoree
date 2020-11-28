@@ -1,0 +1,25 @@
+.d
+test-bin-mac
+
+*~
+*.a
+*.core
+*.o
+core
+tags
+.DS_Store
+*.debug
+/.qmake.cache
+/.qmake.stash
+
+# qtcreator generated files
+*.pro.user*
+
+# Vim temporary files
+.*.swp
+
+# Binaries
+# --------
+*.dll
+*.exe
+
